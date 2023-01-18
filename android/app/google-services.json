@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "866542128343",
+    "project_id": "ikiteker-5af63",
+    "storage_bucket": "ikiteker-5af63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866542128343:android:8b979c703a91819d8b7492",
+        "android_client_info": {
+          "package_name": "com.ikiteker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866542128343-9aihh4tm8orr86a8f4rf2v1are48tmm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ikiteker",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "866542128343-7qm6i7e3455qhuvuousdeb4715famu87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogPL6LBmPdpKNkn3mQKIHxFzMp66rD_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866542128343-7qm6i7e3455qhuvuousdeb4715famu87.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "866542128343-pv0rbuquknqkh7e75335p732ln0ibhv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ikiteker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
